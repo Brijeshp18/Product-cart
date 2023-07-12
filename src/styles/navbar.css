@@ -1,0 +1,23 @@
+.navbar{
+    width: 100%;
+    height: 45px;
+    background-color: #131010;
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+}
+.navbar .links {
+  
+        margin-right: 10px;
+        display: flex;
+        align-items: center;
+        
+      }
+      .links a {
+        text-decoration: none;
+        color: white;
+        margin-left: 20px;
+        font-size: 20px;
+      }
+
+      
