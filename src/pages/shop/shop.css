@@ -23,14 +23,14 @@
     flex-direction: column;
 
 }
-.addTocart{
+.addToCart{
     background-color: transparent;
     border: 2px solid rgb(56, 52, 52);
     min-width: 100px;
     padding: 5px 10px;
     border-radius: 15px;
 }
-.addTocart:hover{
+.addToCart:hover{
     background-color: #130f0f;
     color:white;
     cursor: pointer;
